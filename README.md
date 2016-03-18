@@ -1,2 +1,2 @@
 # FsCMS.Hyde
-Alternative to Jekyll using F#
+Lovers of F#, this project is a simple static generator content
